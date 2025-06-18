@@ -6,7 +6,7 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Under Vacuum',
     subtitle: 'Branding e Design',
-    imageUrl: '/src/assets/images/under vacuum - engage senses, inspire future and invent the good - _ - [www.under-vacuum.com].png',
+    imageUrl: './src/assets/images/under vacuum - engage senses, inspire future and invent the good - _ - [www.under-vacuum.com].png',
     description: 'Um estúdio de design com foco em branding e experiências visuais que buscam engajar os sentidos e inspirar o futuro.',
     projectUrl: 'https://www.under-vacuum.com/'
   },
