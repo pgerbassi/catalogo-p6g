@@ -6,7 +6,8 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Under Vacuum',
     subtitle: 'Branding e Design',
-    imageUrl: './images/under vacuum - engage senses, inspire future and invent the good - _ - [www.under-vacuum.com].png',
+    imageUrl: '/public/assets/images/under vacuum - engage senses, inspire future and invent the good - _ - [www.under-vacuum.com].png',
+    //imageUrl: '/images/under vacuum - engage senses, inspire future and invent the good - _ - [www.under-vacuum.com].png',
     description: 'Um estúdio de design com foco em branding e experiências visuais que buscam engajar os sentidos e inspirar o futuro.',
     projectUrl: 'https://www.under-vacuum.com/'
   },
@@ -14,7 +15,7 @@ export const projectsData: Project[] = [
     id: 2,
     title: 'Oito Sustentabilidade',
     subtitle: 'Consultoria em Sustentabilidade',
-    imageUrl: '/images/Oito Sustentabilidade - [oitosustentabilidade3.webflow.io].png',
+    imageUrl: '/assets/images/Oito Sustentabilidade - [oitosustentabilidade3.webflow.io].png',
     description: 'Consultoria especializada em sustentabilidade, auxiliando empresas a integrarem práticas sustentáveis em suas operações.',
     projectUrl: 'https://oitosustentabilidade3.webflow.io/'
   },
